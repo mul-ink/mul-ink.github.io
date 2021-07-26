@@ -1,0 +1,7 @@
+._closeButton_qrakk_1 svg path{
+  fill: var(--text-primary);
+}
+
+._closeButton_qrakk_1 :hover{
+  cursor: pointer;
+}
